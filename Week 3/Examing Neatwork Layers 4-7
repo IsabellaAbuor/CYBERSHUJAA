@@ -1,0 +1,9 @@
+At the end of this module, participants should be able to:
+
+Explain the services provided by Layers 4, 5, 6 & 7 of the OSI Reference Model
+Describe the TCP/IP protocols commonly used at Transport Layer specifically TCP & UDP
+Describe the TCP/IP protocols commonly used at the Application Layer specifically SNMP, HTTP, DNS, SMTP, IMAP, POP, FTP, TELNET
+Simulate how TCP works in contrast to UDP and examine packet captures of the handshake, flags, flow control and session termination
+Simulate how HTTP works using Wireshark and Postman for RESTful API services
+Simulate how DNS works and enumerate DNS servers using host, whois, nslookup, dig and nmap
+Simulate Email services and distinguish between SMTP, IMAP and POP operations
