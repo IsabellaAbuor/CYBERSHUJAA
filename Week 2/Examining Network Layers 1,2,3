@@ -7,6 +7,4 @@ Describe the TCP/IP protocols commonly used at Network Access Layer specifically
 
 Describe the TCP/IP protocols commonly used at the Internet Layer specifically IPv4, IPv6, ICMP, and routing protocols 
 
-Simulate how ARP works in physical addressing and examine Ethernet frames
-
-
+Simulate how ARP works in physical addressing and examine Ethernet frames.
