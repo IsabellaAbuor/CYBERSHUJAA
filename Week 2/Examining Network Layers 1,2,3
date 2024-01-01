@@ -1,1 +1,12 @@
+Learning outcomes:
+ At the end of this module, participants should be able to:
+
+Explain the services provided by Layers 1, 2 and 3 of the OSI Reference Model
+
+Describe the TCP/IP protocols commonly used at Network Access Layer specifically ARP, Ethernet (IEEE802.3), WLAN and WiFi (IEEE802.11), Bluetooth (IEEE802.15) and WiMax (IEEE802.16) 
+
+Describe the TCP/IP protocols commonly used at the Internet Layer specifically IPv4, IPv6, ICMP, and routing protocols 
+
+Simulate how ARP works in physical addressing and examine Ethernet frames
+
 
