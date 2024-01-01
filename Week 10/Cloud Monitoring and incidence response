@@ -4,3 +4,4 @@ Examine how security operations centers work with a good grounding on Incident R
 Evaluate current tools and techniques used in security operation centers particularly around logging, packet capture, SIEM, incident tracking and management, threat intelligence, SOAR etc.
 Simulate common incident scenarios: email incidents, network incidents, malware incidents.
 Use identified tools and techniques to detect, respond, investigate, remediate and report on security incidents
+
