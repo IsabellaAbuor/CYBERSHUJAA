@@ -6,4 +6,4 @@ Describe the TCP/IP protocols commonly used at the Application Layer specificall
 Simulate how TCP works in contrast to UDP and examine packet captures of the handshake, flags, flow control and session termination
 Simulate how HTTP works using Wireshark and Postman for RESTful API services
 Simulate how DNS works and enumerate DNS servers using host, whois, nslookup, dig and nmap
-Simulate Email services and distinguish between SMTP, IMAP and POP operations
+Simulate Email services and distinguish between SMTP, IMAP and POP operations.
