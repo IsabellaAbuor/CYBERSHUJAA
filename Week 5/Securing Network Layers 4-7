@@ -1,0 +1,8 @@
+At the end of this week the student should be able to:
+
+
+Evaluate SSL vs TLS for Transport Layer Security vulnerabilities (including SSL stripping, Key compromise, POODLE, BEAST, CRIME, FREAK, BREACH, HEIST, Heartbleed) and identify security controls for layer 4 security, which include key/certificate management, TLS upgrades and security negotiation. 
+
+Evaluate Application, Presentation, Session layer security vulnerabilities (guided by OWASP Top 10) and identify security controls for layer 5-7 security, which include VPNs, Firewalls, IDPS, EDR, Threat Intelligence solutions.
+
+Implement security controls including: secure TLS configuration, PKI, Certificates, DNSSEC, SPF, DKIM and DMARC using provided tools and lab scenarios
