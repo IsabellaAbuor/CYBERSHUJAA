@@ -5,3 +5,4 @@ Evaluate physical layer security vulnerabilities (including wiretapping, sniffin
 Evaluate Data Link layer security vulnerabilities (including ARP spoofing, MAC flooding, MiTM) and identify security controls for layer 2 security, which include VLANS, port security, DAI, DHCP snooping
 Evaluate Network layer security vulnerabilities (including spoofing, DOS) and identify security controls for layer 3 security, which include ACLs, Firewalls, IPSec VPNs
 Implement security controls including VLANs, switch port security, DHCP security, ACL, IPSec VPNs, and SSH using provided tools and lab scenarios
+
